@@ -43,6 +43,7 @@
   },
   "devDependencies": {
     "@mapbox/cloudfriend": "^1.9.0",
+    "@types/sqlite3": "3.1.5",
     "aws-sdk": "2.x",
     "eslint": "3.5.0",
     "mocha": "^5.2.0"
@@ -60,5 +61,6 @@
     "sqlite3",
     "database"
   ],
-  "main": "./lib/sqlite3"
+  "main": "./lib/sqlite3",
+  "types": "types.d.ts"
 }
