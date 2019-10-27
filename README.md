@@ -1,3 +1,5 @@
+**Note:** This is a fork of the `sqlite3` package to improve compatibility with my Electron/Webpack config. You probably want the [original package](https://www.npmjs.com/package/sqlite3).
+
 Asynchronous, non-blocking [SQLite3](https://sqlite.org/) bindings for [Node.js](http://nodejs.org/).
 
 [![NPM](https://nodei.co/npm/sqlite3.png?downloads=true&downloadRank=true)](https://nodei.co/npm/sqlite3/)
