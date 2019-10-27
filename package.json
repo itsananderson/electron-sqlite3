@@ -1,11 +1,11 @@
 {
-  "name": "sqlite3",
-  "description": "Asynchronous, non-blocking SQLite3 bindings",
+  "name": "@itsananderson/electron-sqlite3",
+  "description": "Asynchronous, non-blocking SQLite3 bindings, customized for Electron/Webpack support",
   "version": "4.1.0",
-  "homepage": "https://github.com/mapbox/node-sqlite3",
+  "homepage": "https://github.com/itsananderson/electron-sqlite3",
   "author": {
-    "name": "MapBox",
-    "url": "https://mapbox.com/"
+    "name": "Will Anderson",
+    "url": "https://willi.am/"
   },
   "binary": {
     "module_name": "node_sqlite3",
@@ -34,7 +34,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/mapbox/node-sqlite3.git"
+    "url": "git://github.com/itsananderson/electron-sqlite3.git"
   },
   "dependencies": {
     "nan": "^2.12.1",
